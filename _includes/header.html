@@ -1,0 +1,58 @@
+<!--<header class="navigation" role="banner">
+  <div class="navigation-wrapper">
+    <a href="{{ site.baseurl }}" class="logo">
+    	{% if site.logo %}
+      <img src="{{ site.logo | prepend: site.baseurl }}" alt="{{ site.title }}">
+      {% else %}
+      <span>{{ site.title }}</span>
+      {% endif %}
+    </a>
+    <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
+    	<i class="fa fa-bars"></i>
+    </a>
+    <nav role="navigation">
+      <ul id="js-navigation-menu" class="navigation-menu show">
+      	{% for page in site.pages %}
+          {% if page.title and page.main_nav != false %}
+          <li class="nav-link"><a href="{{ page.url | remove_first: '/' | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>
+-->
+<header class="centered-navigation" role="banner">
+  <div class="centered-navigation-wrapper">
+    <a href="javascript:void(0)" class="mobile-logo">
+      <img src="{{ site.logo | prepend: site.baseurl }}" alt="{{ site.title }}">
+    </a>
+    <a href="javascript:void(0)" id="js-centered-navigation-mobile-menu" class="centered-navigation-mobile-menu">MENU</a>
+    <nav role="navigation">
+      <ul id="js-centered-navigation-menu" class="centered-navigation-menu show">
+        <li class="nav-link"><a href="/buying">Buying</a></li>
+        <li class="nav-link more"><a href="javascript:void(0)">Building</a>
+          <ul class="submenu">
+            <li><a href="/building_basics/">Basics</a></li>
+            <li class="more"><a href="javascript:void(0)">Guides</a>
+              <ul class="submenu">
+                <li><a href="javascript:void(0)">Tools</a></li>
+                <li><a href="javascript:void(0)">Materials</a></li>
+              </ul>
+            </li>
+            <li><a href="http://forum.tipis.xyz/category/6/building-tipis">Builder's Forum</a></li>
+          </ul>
+        </li>
+        <li class="nav-link"><a href="/blog">Blog</a>
+        <li class="nav-link logo">
+          <a href="{{ site.baseurl }}" class="logo">
+            <img src="{{ site.logo | prepend: site.baseurl }}" alt="{{ site.title }}">
+          </a>
+        </li>
+        <li class="nav-link"><a href="http://forum.tipis.xyz">Forum</a>
+        <li class="nav-link"><a href="javascript:void(0)">Our Store</a></li>
+        <li class="nav-link"><a href="/about">About Us</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
