@@ -1,6 +1,7 @@
 The MIT License (MIT)
 
 Original Copyright (c) 2015 Ben Centra
+
 Modified work Copyright (c) 2015 Louis Calderone
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
