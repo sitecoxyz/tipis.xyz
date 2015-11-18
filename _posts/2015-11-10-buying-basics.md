@@ -9,9 +9,7 @@ permalink: /buying/
 
 # Tipi buying basics
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Buying is most economical for those looking for either a professional tent style tipi that can sleep up to 10 people and have a fire inside, or those looking for something very small as a novelty or possibly a kids item.
+
+By far my favorite professional tipi is the [Tentipi Zircon 9](http://amzn.to/1HZgMmL) which sleeps 9 people and can be used with a small fire inside or a wood burning stove.
+

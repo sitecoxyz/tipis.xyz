@@ -9,9 +9,24 @@ permalink: /building_basics/
 
 # Tipi building
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Selecting materials.
+
+### Poles
+
+The type of poles you use will contribute to the total weight, as well as determine the strength and flexibility of the underlying structure.
+
+The size of the poles can vary, but they will generally be from 20-30ft in length and you should expect to use between 15 and 20.
+
+The best poles will be thicker at the bottom than the top, ideally almost double. 4in on the ground and 2in where they tie together.
+
+ - Cedar
+  - Red
+  - White
+ - Pine
+  - Yellow
+
+### Canvas
+
+The canvas choice will determine the function of your tipi.  Most traditional tipis were made from tanned buffalo or deer hide.  This was very light in color and let a lot of light in during the day.  Dark canvas can make the inside of the tipi unnecessarily dreary.
+
+If you decide to go with synthetic materials, you can opt for something fireproof for extra peace of mind.
