@@ -19,11 +19,9 @@ The size of the poles can vary, but they will generally be from 20-30ft in lengt
 
 The best poles will be thicker at the bottom than the top, ideally almost double. 4in on the ground and 2in where they tie together.
 
- - Cedar
-  - Red
-  - White
+ - Red Cedar
+ - White Cedar
  - Pine
-  - Yellow
 
 ### Canvas
 
