@@ -9,7 +9,7 @@ permalink: /building_basics/
 
 # Tipi building
 
-## Selecting materials.
+## Selecting materials
 
 ### Poles
 
